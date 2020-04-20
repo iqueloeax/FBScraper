@@ -10,9 +10,9 @@ Los resultados son guardados en un archivos xlsx en la carpeta donde se ejecutó
 - El perfil de Facebook debe estar en español
 - Chromedriver (https://chromedriver.chromium.org/downloads)
 #### Paquetes Pyhton
- -selenium
- -BeautifulSoup
- -pandas
+- selenium
+- BeautifulSoup
+- pandas
  
  ## Uso
  Modificar en lineas 277 a 281:
